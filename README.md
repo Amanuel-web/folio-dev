@@ -22,3 +22,5 @@ You can directly open the index.html file by double-clicking it in your file exp
 ![Screenshot 1](assets/gitReadme/page3.png)
 ![Screenshot 1](assets/gitReadme/page4.png)
 ![Screenshot 1](assets/gitReadme/page5.png)
+
+to watch demo click [here](https://folio-dev-by-aman.vercel.app/)
